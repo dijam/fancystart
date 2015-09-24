@@ -1,0 +1,22 @@
+{
+  "name": "fancystart",
+  "version": "1.0.0",
+  "description": "My fancy starter kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dijam/fancystart.git"
+  },
+  "keywords": [
+    "fancy"
+  ],
+  "author": "Majid Garmaroudi <majid.sadeghi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dijam/fancystart/issues"
+  },
+  "homepage": "https://github.com/dijam/fancystart#readme"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "fancystart",
+  "main": "index.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dijam/fancystart",
+  "authors": [
+    "Majid Garmaroudi <majid.sadeghi@gmail.com>"
+  ],
+  "description": "My fancy starter kit",
+  "keywords": [
+    "fancy"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
