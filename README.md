@@ -4,6 +4,7 @@ Fancy Starter Pack
 Add any current fancy tools to this
 
 # TODO
+* Coffeescript
 * SASS
 * Bower
 * NPM
