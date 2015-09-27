@@ -1,6 +1,12 @@
 Fancy Starter Pack
 =================
 
+
+## Requirements
+* Nodejs
+* npm
+* bower
+
 Add any current fancy tools to this
 
 # TODO
@@ -16,3 +22,4 @@ Add any current fancy tools to this
 * Proper unittest support
 * Proper build and ENV support
 * Node 4.0 back-end
+* Add Coffeescript to node
