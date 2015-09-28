@@ -6,6 +6,7 @@ Fancy Starter Pack
 * Nodejs
 * npm
 * bower
+* SASS
 
 Add any current fancy tools to this
 
